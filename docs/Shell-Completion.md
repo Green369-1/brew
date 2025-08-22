@@ -8,7 +8,33 @@ Homebrew comes with completion definitions for the `brew` command. Some packages
 
 `zsh`, `bash` and `fish` are currently supported.
 
-You must manually configure your shell to enable its completion support. This is because the Homebrew-managed completions are stored under `HOMEBREW_PREFIX` which your system shell may not be aware of, and since it is difficult to automatically configure `bash` and `zsh` completions in a robust manner, the Homebrew installer does not do it for you.
+You must manually conf![3065497d-74e9-4505-9dce-7431146b9f1d-1_all_75](https://github.com/user-attachments/assets/9b66c2fa-27e0-4a2b-abe0-0f694ab67fb9)
+![3065497d-74e9-4505-9dce-7431146b9f1d-1_all_77](https://github.com/user-attachments/assets/327ed9dd-be66-4ef6-8fe7-54794dabb651)
+![3065497d-74e9-4505-9dce-7431146b9f1d-1_all_27](https://github.com/user-attachments/assets/02a704a8-a3fe-410c-8013-638a32403537)
+![3065497d-74e9-4505-9dce-7431146b9f1d-1_all_20](https://github.com/user-attachments/assets/2323e35d-4f87-4551-b754-6a7912206458)
+![1000000432](https://github.com/user-attachments/assets/255c17f2-20e7-47ae-94de-85e6e730a547)
+![1000000552](https://github.com/user-attachments/assets/c1129ba1-624a-4ce8-8063-46632e04d8a8)
+![1000000571](https://github.com/user-attachments/assets/c2c6c71a-c3c7-4d03-bc9d-b239a5388900)
+
+
+https://github.com/user-attachments/assets/e135cb32-eddf-4d9e-a500-d8782a39a325
+
+![1000001319](https://github.com/user-attachments/assets/ea047ebe-acb3-4d79-8476-720255ebc87e)
+![1000001429](https://github.com/user-attachments/assets/b7d8ebf4-f449-4f12-b19d-f0a5c1bdb42b)
+![1000001786](https://github.com/user-attachments/assets/17c55879-8c19-47f3-9966-181d06420923)
+![1000001783](https://github.com/user-attachments/assets/ae1f5afc-014e-420c-8241-1d1fd00e3511)
+![1000002143](https://github.com/user-attachments/assets/f74a09f4-9275-494e-a294-bc3335b1a77e)
+![1000002567](https://github.com/user-attachments/assets/55110de0-0191-4adc-acbb-5af1f933d8b1)
+![1000002897](https://github.com/user-attachments/assets/7a661c2a-2de8-40f3-9460-62a0a5e71ab0)
+![1000003060](https://github.com/user-attachments/assets/e9103543-13a0-4537-8373-b760bc930f7f)
+![1000003215](https://github.com/user-attachments/assets/93f8b7f1-0ff5-4253-830a-50032223470b)
+![1000005014](https://github.com/user-attachments/assets/136b46ed-2943-4a21-9b62-fc081752cb44)
+![1000005264](https://github.com/user-attachments/assets/b119161e-a0dd-453a-b607-05660bf6e96b)
+<img width="1200" height="1245" alt="1000006114" src="https://github.com/user-attachments/assets/099f7cfb-a9ca-4351-8d76-387c7bda4596" />
+![1000007357](https://github.com/user-attachments/assets/69fb9a44-ab82-49b7-88d2-d460fd0ae73e)
+![1000007104](https://github.com/user-attachments/assets/90674b8b-624e-421f-912c-1f9719f1defd)
+![1000001268](https://github.com/user-attachments/assets/6a0a43f1-4a70-40cb-a1b5-54edab26b41c)
+igure your shell to enable its completion support. This is because the Homebrew-managed completions are stored under `HOMEBREW_PREFIX` which your system shell may not be aware of, and since it is difficult to automatically configure `bash` and `zsh` completions in a robust manner, the Homebrew installer does not do it for you.
 
 Shell completions for external Homebrew commands are not automatically installed. To opt-in to using completions for external commands (if provided), they need to be linked to `HOMEBREW_PREFIX` by running `brew completions link`.
 
